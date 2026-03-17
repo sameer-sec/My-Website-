@@ -1,0 +1,23 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "description": "LOCKSCROLL - Clarity That Converts",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sameer-sec/My-Website-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sameer-sec/My-Website-/issues"
+  },
+  "homepage": "https://github.com/sameer-sec/My-Website-#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
